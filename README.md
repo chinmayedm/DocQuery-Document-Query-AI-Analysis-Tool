@@ -69,6 +69,7 @@ Clone the repository and install the required packages:
 
 # 📁 Project Structure
 
+![project structure](https://github.com/chinmayedm/DocQuery-Document-Query-AI-Analysis-Tool/blob/main/Screenshot%202025-11-17%20at%2017.10.27.png?raw=true)
 
 # 🧠 Available LLMs (Groq)
 
